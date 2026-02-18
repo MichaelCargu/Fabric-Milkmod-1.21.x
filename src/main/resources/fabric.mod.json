@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "milk-mod",
+	"version": "${version}",
+	"name": "Milk Mod",
+	"description": "Milk Mod für mein Projektarbeit",
+	"authors": [
+		"Michael!"
+	],
+	"contact": {
+		"homepage": "https://michael.net",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/milk-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.michael.milkmod.MilkMod"
+		],
+		"fabric-datagen": [
+			"net.michael.milkmod.MilkModDataGenerator"
+		],
+		"client": [
+			"net.michael.milkmod.MilkModClient"
+		]
+	},
+	"mixins": [
+		"milk-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
