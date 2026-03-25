@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "milkmod:strawberry_milk_ingot"
+    }
+  },
+  "result": {
+    "id": "milkmod:strawberry_milk_chestplate",
+    "count": 1
+  }
+}

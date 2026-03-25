@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "milkmod:strawberry_milk_ingot"
+    }
+  },
+  "result": {
+    "id": "milkmod:strawberry_milk_leggings",
+    "count": 1
+  }
+}

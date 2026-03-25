@@ -1,0 +1,62 @@
+{
+  "item.milkmod.milk_ingot": "Milk Ingot",
+  "item.milkmod.chocomilk_ingot": "Chocomilk Ingot",
+  "item.milkmod.strawberry_milk_ingot": "Strawberry Milk Ingot",
+
+  "item.milkmod.milk_sword": "Milk Sword",
+  "item.milkmod.milk_pickaxe": "Milk Pickaxe",
+  "item.milkmod.milk_axe": "Milk Axe",
+  "item.milkmod.milk_shovel": "Milk Shovel",
+  "item.milkmod.milk_hoe": "Milk Hoe",
+
+  "item.milkmod.chocomilk_sword": "Chocomilk Sword",
+  "item.milkmod.chocomilk_pickaxe": "Chocomilk Pickaxe",
+  "item.milkmod.chocomilk_axe": "Chocomilk Axe",
+  "item.milkmod.chocomilk_shovel": "Chocomilk Shovel",
+  "item.milkmod.chocomilk_hoe": "Chocomilk Hoe",
+
+  "item.milkmod.strawberry_milk_sword": "Strawberry Milk Sword",
+  "item.milkmod.strawberry_milk_pickaxe": "Strawberry Milk Pickaxe",
+  "item.milkmod.strawberry_milk_axe": "Strawberry Milk Axe",
+  "item.milkmod.strawberry_milk_shovel": "Strawberry Milk Shovel",
+  "item.milkmod.strawberry_milk_hoe": "Strawberry Milk Hoe",
+
+  "item.milkmod.cheese_sword": "Cheese Sword",
+  "item.milkmod.cheese_pickaxe": "Cheese Pickaxe",
+  "item.milkmod.cheese_axe": "Cheese Axe",
+  "item.milkmod.cheese_shovel": "Cheese Shovel",
+  "item.milkmod.cheese_hoe": "Cheese Hoe",
+
+  "item.milkmod.milk_helmet": "Milk Helmet",
+  "item.milkmod.milk_chestplate": "Milk Chestplate",
+  "item.milkmod.milk_leggings": "Milk Leggings",
+  "item.milkmod.milk_boots": "Milk Boots",
+
+  "item.milkmod.chocomilk_helmet": "Chocomilk Helmet",
+  "item.milkmod.chocomilk_chestplate": "Chocomilk Chestplate",
+  "item.milkmod.chocomilk_leggings": "Chocomilk Leggings",
+  "item.milkmod.chocomilk_boots": "Chocomilk Boots",
+
+  "item.milkmod.strawberry_milk_helmet": "Strawberry Milk Helmet",
+  "item.milkmod.strawberry_milk_chestplate": "Strawberry Milk Chestplate",
+  "item.milkmod.strawberry_milk_leggings": "Strawberry Milk Leggings",
+  "item.milkmod.strawberry_milk_boots": "Strawberry Milk Boots",
+
+  "item.milkmod.cheese_helmet": "Cheese Helmet",
+  "item.milkmod.cheese_chestplate": "Cheese Chestplate",
+  "item.milkmod.cheese_leggings": "Cheese Leggings",
+  "item.milkmod.cheese_boots": "Cheese Boots",
+
+  "block.milkmod.milk_block": "Block of Milk",
+  "block.milkmod.chocomilk_block": "Block of Chocomilk",
+  "block.milkmod.strawberry_milk_block": "Block of Strawberry Milk",
+  "block.milkmod.cheese_block": "Block of Cheese",
+
+  "item.milkmod.strawberry": "Strawberry",
+  "item.milkmod.cheese": "Cheese",
+
+  "itemgroup.milkmod.milk_items": "Milk Mod",
+
+  "entity.minecraft.villager.milkman": "Milk Man"
+
+}

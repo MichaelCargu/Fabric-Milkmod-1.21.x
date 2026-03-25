@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "milkmod:milk_block",
+    "milkmod:chocomilk_block",
+    "milkmod:strawberry_milk_block",
+    "milkmod:cheese_block"
+  ]
+}

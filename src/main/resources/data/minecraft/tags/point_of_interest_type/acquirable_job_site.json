@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "milkmod:michael_poi",
+      "required": false
+    }
+  ]
+}

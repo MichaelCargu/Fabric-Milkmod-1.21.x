@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M",
+    "   "
+  ],
+  "key": {
+    "M": {
+      "item": "milkmod:milk_ingot"
+    }
+  },
+  "result": {
+    "id": "milkmod:milk_helmet",
+    "count": 1
+  }
+}

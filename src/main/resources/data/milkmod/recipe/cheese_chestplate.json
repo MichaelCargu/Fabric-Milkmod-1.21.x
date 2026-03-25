@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "milkmod:cheese"
+    }
+  },
+  "result": {
+    "id": "milkmod:cheese_chestplate",
+    "count": 1
+  }
+}

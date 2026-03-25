@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "milkmod:strawberry_milk_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "milkmod:strawberry_milk_ingot"
+  }
+}

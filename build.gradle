@@ -3,6 +3,8 @@ plugins {
 	id 'maven-publish'
 }
 
+
+
 version = project.mod_version
 group = project.maven_group
 
@@ -32,7 +34,7 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
-	
+
 }
 
 processResources {
@@ -41,6 +43,7 @@ processResources {
 	filesMatching("fabric.mod.json") {
 		expand "version": inputs.properties.version
 	}
+
 }
 
 tasks.withType(JavaCompile).configureEach {

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "milkmod:item/strawberry_milk_leggings"
+  }
+}

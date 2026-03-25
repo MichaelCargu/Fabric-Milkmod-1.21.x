@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "milkmod:milk_ingot"
+    },
+    {
+      "item": "milkmod:strawberry"
+    }
+  ],
+  "result": {
+    "id": "milkmod:strawberry_milk_ingot",
+    "count": 1
+  }
+}
